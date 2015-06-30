@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E71DD64D-B345-42C8-BF8C-75453A3DF55C</string>
+	<string>FFE2F9C4-0828-46FF-937D-A7AE267593A0</string>
 	<key>IDESourceControlProjectName</key>
 	<string>qiitaList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/yamasakitomohiro/QiitaList_MVC.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>qiitaList.xcworkspace</string>
+	<string>qiitaList.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>DD3AC3E797656EDE9C4A9C65CC34437FBBF1E15C</key>
-		<string>..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/yamasakitomohiro/QiitaList_MVC.git</string>
