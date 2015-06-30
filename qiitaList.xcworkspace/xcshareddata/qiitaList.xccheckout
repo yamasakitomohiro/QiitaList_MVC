@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F33CF13E-A9E3-4040-BCE5-F018CBA0D991</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qiitaList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD3AC3E797656EDE9C4A9C65CC34437FBBF1E15C</key>
+		<string>https://github.com/yamasakitomohiro/QiitaList_MVC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>qiitaList.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD3AC3E797656EDE9C4A9C65CC34437FBBF1E15C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yamasakitomohiro/QiitaList_MVC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD3AC3E797656EDE9C4A9C65CC34437FBBF1E15C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD3AC3E797656EDE9C4A9C65CC34437FBBF1E15C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qiitaList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
